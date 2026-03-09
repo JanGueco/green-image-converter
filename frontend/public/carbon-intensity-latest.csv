@@ -1,0 +1,239 @@
+Entity,Code,Year,Carbon intensity of electricity per kWh
+ASEAN (Ember),,2024,572.13
+Afghanistan,AFG,2023,123.71
+Africa,OWID_AFR,2022,549.21985
+Africa (Ember),,2024,544.86
+Albania,ALB,2023,24.42
+Algeria,DZA,2023,633.65
+American Samoa,ASM,2023,647.06
+Angola,AGO,2023,167.22
+Antigua and Barbuda,ATG,2023,611.11
+Argentina,ARG,2024,344.83
+Armenia,ARM,2024,242.97
+Aruba,ABW,2022,550
+Asia,OWID_ASI,2023,593.0164
+Asia (Ember),,2024,570.42
+Australia,AUS,2024,553.83
+Austria,AUT,2025,113.91
+Azerbaijan,AZE,2024,632.76
+Bahamas,BHS,2022,653.66
+Bahrain,BHR,2023,902.41
+Bangladesh,BGD,2024,693.84
+Barbados,BRB,2023,600
+Belarus,BLR,2024,323.27
+Belgium,BEL,2025,149.77
+Belize,BLZ,2023,155.56
+Benin,BEN,2023,590
+Bermuda,BMU,2023,640.63
+Bhutan,BTN,2023,24.19
+Bolivia,BOL,2024,468.02
+Bosnia and Herzegovina,BIH,2025,611.51
+Botswana,BWA,2023,849.42
+Brazil,BRA,2024,106.06
+British Virgin Islands,VGB,2023,647.06
+Brunei,BRN,2023,892.67
+Bulgaria,BGR,2025,275.34
+Burkina Faso,BFA,2023,554.91
+Burundi,BDI,2023,230.77
+Cambodia,KHM,2024,498.09
+Cameroon,CMR,2023,285.71
+Canada,CAN,2024,185.35
+Cape Verde,CPV,2022,480
+Cayman Islands,CYM,2023,642.86
+Central African Republic,CAF,2022,0
+Chad,TCD,2022,615.39
+Chile,CHL,2024,265.18
+China,CHN,2024,555.4
+Colombia,COL,2024,285.8
+Comoros,COM,2023,642.86
+Congo,COG,2023,713.73
+Cook Islands,COK,2022,250
+Costa Rica,CRI,2024,63.01
+Cote d'Ivoire,CIV,2023,393.53
+Croatia,HRV,2025,160.36
+Cuba,CUB,2023,638.98
+Cyprus,CYP,2025,487.81
+Czechia,CZE,2025,401.4
+Democratic Republic of Congo,COD,2023,27.04
+Denmark,DNK,2025,114.3
+Djibouti,DJI,2023,450
+Dominica,DMA,2023,600
+Dominican Republic,DOM,2024,565.92
+EU (Ember),,2025,210.21
+East Timor,TLS,2023,666.67
+Ecuador,ECU,2024,209.7
+Egypt,EGY,2024,574.5
+El Salvador,SLV,2024,99.29
+Equatorial Guinea,GNQ,2023,605.1
+Eritrea,ERI,2023,590.91
+Estonia,EST,2025,319.01
+Eswatini,SWZ,2023,142.86
+Ethiopia,ETH,2023,23.55
+Europe,OWID_EUR,2024,272.62872
+Europe (Ember),,2024,284.07
+European Union (27),OWID_EU27,2024,211.64853
+Falkland Islands,FLK,2022,1000
+Faroe Islands,FRO,2022,354.17
+Fiji,FJI,2023,278.26
+Finland,FIN,2025,56.81
+France,FRA,2025,41.79
+French Guiana,GUF,2022,204.08
+French Polynesia,PYF,2022,436.62
+G20 (Ember),,2024,467.09
+G7 (Ember),,2024,342.67
+Gabon,GAB,2023,429.47
+Gambia,GMB,2023,666.67
+Georgia,GEO,2024,143.06
+Germany,DEU,2025,331.6
+Ghana,GHA,2023,452.86
+Gibraltar,GIB,2023,590.91
+Greece,GRC,2025,315.63
+Greenland,GRL,2022,111.11
+Grenada,GRD,2022,666.67
+Guadeloupe,GLP,2022,493.9
+Guam,GUM,2022,611.11
+Guatemala,GTM,2023,272.66
+Guinea,GIN,2023,182.72
+Guinea-Bissau,GNB,2022,625
+Guyana,GUY,2023,634.33
+Haiti,HTI,2022,534.65
+High-income countries,OWID_HIC,2023,378.27966
+Honduras,HND,2023,289.5
+Hong Kong,HKG,2023,681.99
+Hungary,HUN,2025,162.34
+Iceland,ISL,2023,28.33
+India,IND,2024,707.45
+Indonesia,IDN,2024,680.25
+Iran,IRN,2024,648.68
+Iraq,IRQ,2023,689.4
+Ireland,IRL,2025,255.89
+Israel,ISR,2023,567.26
+Italy,ITA,2025,285.26
+Jamaica,JAM,2022,561.25
+Japan,JPN,2024,483.43
+Jordan,JOR,2022,539.21
+Kazakhstan,KAZ,2024,802.04
+Kenya,KEN,2024,84.83
+Kiribati,KIR,2022,500
+Kosovo,OWID_KOS,2025,946.96
+Kuwait,KWT,2024,637.24
+Kyrgyzstan,KGZ,2024,172.52
+Laos,LAO,2023,232.12
+Latin America and Caribbean (Ember),,2024,254.25
+Latvia,LVA,2025,138.98
+Lebanon,LBN,2023,369.47
+Lesotho,LSO,2022,20.83
+Liberia,LBR,2023,435.9
+Libya,LBY,2023,830.53
+Lithuania,LTU,2025,139.77
+Low-income countries,OWID_LIC,2022,273.03418
+Lower-middle-income countries,OWID_LMC,2023,629.3377
+Luxembourg,LUX,2025,124.18
+Macao,MAC,2022,448.98
+Madagascar,MDG,2022,477.27
+Malawi,MWI,2022,54.65
+Malaysia,MYS,2024,604.43
+Maldives,MDV,2023,611.77
+Mali,MLI,2023,394.5
+Malta,MLT,2025,472.48
+Martinique,MTQ,2022,516.78
+Mauritania,MRT,2022,481.71
+Mauritius,MUS,2023,633.03
+Mexico,MEX,2024,483.14
+Middle East (Ember),,2024,637.24
+Moldova,MDA,2024,629.56
+Mongolia,MNG,2024,807.88
+Montenegro,MNE,2025,265.15
+Montserrat,MSR,2022,1000
+Morocco,MAR,2024,576.57
+Mozambique,MOZ,2023,127.81
+Myanmar,MMR,2024,569.69
+Namibia,NAM,2023,47.62
+Nauru,NRU,2023,750
+Nepal,NPL,2022,23.36
+Netherlands,NLD,2025,253.22
+New Caledonia,NCL,2022,566.34
+New Zealand,NZL,2024,119.66
+Nicaragua,NIC,2023,288.33
+Niger,NER,2023,675
+Nigeria,NGA,2024,507.85
+North America,OWID_NAM,2022,383.79523
+North America (Ember),,2024,358.62
+North Korea,PRK,2022,344.26
+North Macedonia,MKD,2025,531.41
+Norway,NOR,2025,29.1
+OECD (Ember),,2024,337.52
+Oceania,OWID_OCE,2022,513.8885
+Oceania (Ember),,2024,495.32
+Oman,OMN,2024,545.33
+Pakistan,PAK,2024,398.24
+Palestine,PSE,2022,460.78
+Panama,PAN,2023,258.74
+Papua New Guinea,PNG,2023,513.74
+Paraguay,PRY,2023,24.86
+Peru,PER,2024,263.27
+Philippines,PHL,2024,612.35
+Poland,POL,2025,592.2
+Portugal,PRT,2025,127.83
+Puerto Rico,PRI,2024,664.53
+Qatar,QAT,2024,602.83
+Reunion,REU,2022,525.22
+Romania,ROU,2025,250.75
+Russia,RUS,2024,445.98
+Rwanda,RWA,2023,301.89
+Saint Helena,SHN,2022,1000
+Saint Kitts and Nevis,KNA,2022,636.36
+Saint Lucia,LCA,2022,650
+Saint Pierre and Miquelon,SPM,2022,600
+Saint Vincent and the Grenadines,VCT,2023,600
+Samoa,WSM,2023,400
+Sao Tome and Principe,STP,2022,555.56
+Saudi Arabia,SAU,2024,691.95
+Senegal,SEN,2023,535.4
+Serbia,SRB,2025,696.12
+Seychelles,SYC,2023,571.43
+Sierra Leone,SLE,2023,47.62
+Singapore,SGP,2024,498.74
+Slovakia,SVK,2025,94.85
+Slovenia,SVN,2025,183.47
+Solomon Islands,SLB,2023,636.36
+Somalia,SOM,2023,523.81
+South Africa,ZAF,2024,713.17
+South America,OWID_SAM,2023,171.63199
+South Korea,KOR,2024,415.51
+South Sudan,SSD,2023,610.17
+Spain,ESP,2025,153.26
+Sri Lanka,LKA,2022,509.78
+Sudan,SDN,2023,214.33
+Suriname,SUR,2023,383.18
+Sweden,SWE,2025,35.33
+Switzerland,CHE,2025,32.65
+Syria,SYR,2022,682.27
+Taiwan,TWN,2024,635.19
+Tajikistan,TJK,2024,97.79
+Tanzania,TZA,2023,371.59
+Thailand,THA,2024,554.73
+Togo,TGO,2023,478.26
+Tonga,TON,2023,571.43
+Trinidad and Tobago,TTO,2023,682.11
+Tunisia,TUN,2024,560.25
+Turkey,TUR,2025,474.74
+Turkmenistan,TKM,2023,1306.3
+Turks and Caicos Islands,TCA,2023,653.85
+Uganda,UGA,2022,57.39
+Ukraine,UKR,2022,250.47
+United Arab Emirates,ARE,2024,467.51
+United Kingdom,GBR,2025,217.09
+United States,USA,2024,383.78
+United States Virgin Islands,VIR,2023,641.79
+Upper-middle-income countries,OWID_UMC,2023,552.0158
+Uruguay,URY,2024,96.7
+Uzbekistan,UZB,2023,1121.18
+Vanuatu,VUT,2023,500
+Venezuela,VEN,2023,180.25
+Vietnam,VNM,2024,484.32
+Western Sahara,ESH,2009,666.67
+World,OWID_WRL,2024,471.84
+Yemen,YEM,2023,586.32
+Zambia,ZMB,2023,111
+Zimbabwe,ZWE,2023,298.44

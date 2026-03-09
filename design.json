@@ -1,0 +1,251 @@
+{
+    "designs": [
+      {
+        "id": "design_1",
+        "name": "NaturePress - Environmental & Ecology WordPress Theme",
+        "url": "capethemes.com",
+        "theme": "Environmental / Ecology / Nature",
+        "style": "Dark hero with editorial layout",
+  
+        "colors": {
+          "primary_accent": "#E8603A",
+          "background_dark": "#1A1A2E",
+          "background_light": "#F5F5F0",
+          "text_light": "#FFFFFF",
+          "text_dark": "#1C1C1C",
+          "text_accent": "#E8603A",
+          "overlay": "rgba(0,0,0,0.45)"
+        },
+  
+        "typography": {
+          "logo": {
+            "font_style": "Bold, uppercase, condensed sans-serif",
+            "color": "#FFFFFF",
+            "background": "#6BAFC0"
+          },
+          "hero_headline": {
+            "text": "A RACE AGAINST TIME",
+            "font_style": "Large, uppercase, thin/light weight sans-serif",
+            "color": "#FFFFFF",
+            "size_estimate": "60-72px"
+          },
+          "nav_links": {
+            "font_style": "Uppercase, medium weight sans-serif",
+            "color": "#FFFFFF",
+            "size_estimate": "13-14px"
+          },
+          "section_labels": {
+            "text_examples": ["WHAT WE DO?", "DIVERSITY", "SUSTAINABILITY", "ETHICS & VALUES"],
+            "font_style": "Uppercase, bold, small",
+            "color_primary": "#1C1C1C",
+            "color_accent": "#E8603A"
+          },
+          "body_text": {
+            "font_style": "Regular weight serif or sans-serif",
+            "color": "#555555",
+            "size_estimate": "14-15px"
+          },
+          "section_heading": {
+            "text_example": "We help protect the world's tropical forests",
+            "font_style": "Large, light weight serif",
+            "color": "#1C1C1C",
+            "size_estimate": "36-40px"
+          }
+        },
+  
+        "navigation": {
+          "position": "Fixed top",
+          "background": "Transparent over hero, dark overlay",
+          "logo_position": "Top-left with colored background block",
+          "links": ["HOME", "NEWS", "FEATURES", "ABOUT US", "CONTACT", "EVENTS"],
+          "cta_button": {
+            "text": "GET INVOLVED",
+            "style": "Filled",
+            "background": "#E8603A",
+            "color": "#FFFFFF",
+            "border_radius": "4px"
+          },
+          "social_icons": ["Facebook", "Twitter", "YouTube"],
+          "search_icon": true
+        },
+  
+        "hero_section": {
+          "type": "Full-width background image with text overlay",
+          "image_description": "Dense jungle/forest with reflective river at dusk, dramatic purple-pink sky",
+          "text_alignment": "Center",
+          "cta_buttons": [
+            {
+              "text": "GET INVOLVED",
+              "style": "Filled",
+              "background": "#E8603A",
+              "color": "#FFFFFF"
+            },
+            {
+              "text": "ENGAGE EVENTS",
+              "style": "Outlined",
+              "background": "Transparent",
+              "color": "#FFFFFF",
+              "border": "1px solid #FFFFFF"
+            }
+          ],
+          "divider_text": "or",
+          "height_estimate": "70vh"
+        },
+  
+        "content_section": {
+          "background": "#F5F5F0",
+          "layout": "4-column grid",
+          "decorative_elements": ["Botanical leaf illustrations", "Thin horizontal divider lines"],
+          "columns": [
+            {
+              "type": "Brand statement",
+              "label": "WHAT WE DO?",
+              "heading_style": "Large light serif",
+              "border": "1px solid #1C1C1C (partial frame)"
+            },
+            {
+              "type": "Feature card",
+              "title": "DIVERSITY",
+              "title_color": "#E8603A"
+            },
+            {
+              "type": "Feature card",
+              "title": "SUSTAINABILITY",
+              "title_color": "#E8603A"
+            },
+            {
+              "type": "Feature card",
+              "title": "ETHICS & VALUES",
+              "title_color": "#E8603A"
+            }
+          ]
+        },
+  
+        "decorative_motifs": [
+          "Botanical / leaf illustrations (hand-drawn style)",
+          "Thin line dividers",
+          "Partial box borders around text blocks"
+        ],
+  
+        "overall_feel": "Editorial nature magazine meets advocacy organization"
+      },
+  
+      {
+        "id": "design_2",
+        "name": "Ecology - Environmental Landing Page",
+        "theme": "Ecology / Environment / Sustainability",
+        "style": "Clean minimalist with bold typography",
+  
+        "colors": {
+          "primary_green": "#3A7D1E",
+          "accent_green_dark": "#2D6316",
+          "background": "#F0F4F8",
+          "text_dark": "#111111",
+          "text_medium": "#444444",
+          "white": "#FFFFFF",
+          "slide_indicator": "#C8A96E"
+        },
+  
+        "typography": {
+          "logo": {
+            "text": "ECOLOGY",
+            "font_style": "Bold uppercase sans-serif",
+            "color": "#3A7D1E",
+            "icon": "Globe with leaf"
+          },
+          "hero_headline": {
+            "lines": [
+              { "text": "together", "style": "Bold, lowercase, green", "color": "#3A7D1E" },
+              { "text": "we can restore", "style": "Bold, lowercase, dark", "color": "#111111" },
+              { "text": "the planet", "style": "Bold, lowercase, dark", "color": "#111111" }
+            ],
+            "font_style": "Extra-bold, lowercase, wide-tracking sans-serif",
+            "size_estimate": "48-60px"
+          },
+          "nav_links": {
+            "font_style": "Regular sans-serif",
+            "color": "#444444"
+          }
+        },
+  
+        "navigation": {
+          "position": "Fixed top",
+          "background": "White / light",
+          "logo_position": "Top-left",
+          "search": {
+            "type": "Inline search input",
+            "placeholder": "search...",
+            "style": "Borderless with icon"
+          },
+          "cta_button": {
+            "text": "Donate Now",
+            "style": "Filled with icon",
+            "background": "#3A7D1E",
+            "color": "#FFFFFF",
+            "border_radius": "20px",
+            "icon": "Leaf/donate icon"
+          },
+          "menu_icon": "Grid/dots icon (top-right)"
+        },
+  
+        "hero_section": {
+          "type": "Split layout — text left, visual right",
+          "background": "Off-white / light blue-grey (#F0F4F8)",
+          "layout": "50/50 split",
+          "left_side": {
+            "headline": "together we can restore the planet",
+            "cta_button": {
+              "text": "Watch Video",
+              "style": "Circle play button + text",
+              "background": "#3A7D1E",
+              "color": "#FFFFFF",
+              "shape": "Pill / rounded"
+            }
+          },
+          "right_side": {
+            "visual": "Illustrated light bulb filled with real green plants/leaves",
+            "effect": "Floating leaves scattered around bulb",
+            "style": "Mixed media — line drawing + real photography"
+          },
+          "slide_counter": {
+            "format": "01 / 04",
+            "position": "Left side, vertical",
+            "color": "#C8A96E"
+          },
+          "navigation_arrows": {
+            "position": "Left side, vertical stacked",
+            "style": "Minimal arrows"
+          },
+          "side_text": {
+            "position": "Right edge, vertical rotated",
+            "style": "Small, light, descriptive paragraph"
+          }
+        },
+  
+        "decorative_motifs": [
+          "Mixed media illustration (line drawing + real plant photography)",
+          "Floating/scattered leaf particles",
+          "Vertical text on edges",
+          "Slide number indicator",
+          "Real potted plants bleeding into frame edges"
+        ],
+  
+        "overall_feel": "Modern, clean, impactful — design agency aesthetic applied to environmental cause"
+      }
+    ],
+  
+    "comparison": {
+      "shared_themes": ["Environmental / Ecology", "Green as primary color", "CTA buttons for donations/involvement", "Nature imagery"],
+      "key_differences": {
+        "Design 1": "Dark, dramatic, editorial — heavy use of photography overlays",
+        "Design 2": "Light, minimal, bold typography — mixed media illustration"
+      },
+      "common_ui_patterns": [
+        "Sticky top navigation",
+        "Prominent hero CTA button",
+        "Logo top-left",
+        "Search in navbar",
+        "Slide/carousel indicators"
+      ]
+    }
+  }

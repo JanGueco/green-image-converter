@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #3A7D1E;
+  --color-primary-dark: #2D6316;
+  --color-bg-dark: #1A1A2E;
+  --color-bg-darker: #111111;
+  --color-bg-card: #1C1C1C;
+  --font-sans: "DM Sans", system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #F8F8F6;
+  color: #1C1C1C;
+  font-family: var(--font-sans);
+}
+
+html.dark body {
+  background-color: var(--color-bg-dark);
+  color: #f5f5f0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-result-in {
+  animation: slide-in-right 0.3s ease-out forwards;
+}
